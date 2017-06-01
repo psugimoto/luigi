@@ -143,6 +143,7 @@ or held presentations about Luigi:
 * `TrustYou <http://www.trustyou.com/>`_ `(presentation, 2015) <https://speakerdeck.com/mfcabrera/pydata-berlin-2015-processing-hotel-reviews-with-python>`__
 * `Groupon <https://www.groupon.com/>`_ / `OrderUp <https://orderup.com>`_ `(alternative implementation) <https://github.com/groupon/luigi-warehouse>`__
 * `Red Hat - Marketing Operations <https://www.redhat.com>`_ `(blog, 2017) <https://github.com/rh-marketingops/rh-mo-scc-luigi>`__
+* `GetNinjas <https://www.getninjas.com.br/>`_ `(blog, 2017) <https://labs.getninjas.com.br/using-luigi-to-create-and-monitor-pipelines-of-batch-jobs-eb8b3cd2a574>`__
 
 Some more companies are using Luigi but haven't had a chance yet to write about it:
 
@@ -154,8 +155,7 @@ Some more companies are using Luigi but haven't had a chance yet to write about 
 * `Squarespace <https://www.squarespace.com/>`_
 * `OAO <https://adops.com/>`_
 * `Grovo <https://grovo.com/>`_
-* `Weebly <https://www.weebly.com/>`_
-* `GetNinjas <https://www.getninjas.com.br/>`_
+* `Weebly <https://www.weebly.com/>`
 
 We're more than happy to have your company added here. Just send a PR on GitHub.
 
